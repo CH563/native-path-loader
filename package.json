@@ -1,0 +1,27 @@
+{
+  "name": "native-path-loader",
+  "version": "1.0.0",
+  "description": "Loader for Node native electron multi-platform use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CH563/native-path-loader.git"
+  },
+  "keywords": [
+    "electron",
+    "loader",
+    "native",
+    "node",
+    "webpack",
+    "path"
+  ],
+  "author": "chenliwen <wonderful563@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CH563/native-path-loader/issues"
+  },
+  "homepage": "https://github.com/CH563/native-path-loader#readme"
+}
